@@ -30,7 +30,7 @@
 <p>Regression is a statistical method used in finance, investing, and other disciplines that attempts to determine the strength and character of the relationship between one dependent variable (usually denoted by Y) and a series of other variables (known as independent variables).</p>
   <h2>Classification</h2>
 <p>Classification is a process of categorizing a given set of data into classes, It can be performed on both structured or unstructured data. The process starts with predicting the class of given data points. The classes are often referred to as target, label or categories</p>
-![classification](https://user-images.githubusercontent.com/63513412/118766708-9fc89b80-b89e-11eb-87e4-8dbe4e614ec4.png)
+![classification](classification.png)
 
  <h2>Data Preprocessing</h2>
 <p>Data preprocessing is a data mining technique that involves transforming raw data into an understandable format. Real-world data is often incomplete, inconsistent, and/or lacking in certain behaviors or trends, and is likely to contain many errors. Data preprocessing is a proven method of resolving such issues.</p>
